@@ -1,3 +1,12 @@
+##
+mirror of svn://svn.code.sf.net/p/gtkwave/code/gtkwave3-gtk3 with some changes
+
+
+##Build
+./build.sh
+
+
+
 1) Type ./configure
 2) make
 3) make install (as root)
