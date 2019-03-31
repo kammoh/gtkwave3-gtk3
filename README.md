@@ -1,8 +1,11 @@
-##
-mirror of svn://svn.code.sf.net/p/gtkwave/code/gtkwave3-gtk3 with some changes
+mirror of svn://svn.code.sf.net/p/gtkwave/code/gtkwave3-gtk3 
+
+with small modification for macOS without X11
+
+For more information about GtkWave refer to original website: https://sourceforge.net/projects/gtkwave
 
 
-##Build
+## Build
 ./build.sh
 
 
