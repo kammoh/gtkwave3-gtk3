@@ -1,6 +1,6 @@
 mirror of svn://svn.code.sf.net/p/gtkwave/code/gtkwave3-gtk3 
 
-with small modification for macOS without X11
+with small modification for macOS without X11/Quartz
 
 For more information about GtkWave refer to original website: https://sourceforge.net/projects/gtkwave
 
@@ -9,6 +9,8 @@ For more information about GtkWave refer to original website: https://sourceforg
 ./build.sh
 
 
+
+## Original README
 
 1) Type ./configure
 2) make
